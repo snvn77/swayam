@@ -94,9 +94,9 @@
 
 # When pos1 ≠ pos2, how many times does the while loop assign symbols?
 #  5
-#  2    (Right Answer)
+#  2    
 #  4
-#  3
+#  3    (Right Answer)
 
 # What is the most serious consequence if symbols are not removed inside the loop?
 #  Cards become sorted automatically
