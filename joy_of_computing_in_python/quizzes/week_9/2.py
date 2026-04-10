@@ -119,8 +119,8 @@ print(f"The maximum shortest path length: {max(shortest_path_length_list)}")
 
 # If the network is fully connected, what would most likely happen to the maximum shortest path length?
 #  It would increase significantly
-#  It would become zero        (Right Answer)
-#  It would remain relatively small
+#  It would become zero
+#  It would remain relatively small       (Right Answer)
 #  It would become equal to the number of nodes
 
 
@@ -132,7 +132,7 @@ print(f"The maximum shortest path length: {max(shortest_path_length_list)}")
 
 
 # What is a computational limitation of the approach used in the code?
-#  It cannot handle undirected graphs        (Right Answer)
+#  It cannot handle undirected graphs
 #  It only works for weighted graphs
 #  It ignores isolated nodes
-#  It computes shortest paths for every node pair, which is expensive
+#  It computes shortest paths for every node pair, which is expensive       (Right Answer)

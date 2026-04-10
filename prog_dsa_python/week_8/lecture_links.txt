@@ -1,0 +1,5 @@
+lecture_1: https://www.youtube.com/watch?v=h_YCj6CeutA
+lecture_2: https://www.youtube.com/watch?v=SD-hwfZykDM
+lecture_3: https://www.youtube.com/watch?v=P-oDU7AQ8Mo
+lecture_4: https://www.youtube.com/watch?v=1iaItgJ3zLg
+lecture_5: https://www.youtube.com/watch?v=dXVzBXhyMxY

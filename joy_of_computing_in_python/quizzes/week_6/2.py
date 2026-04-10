@@ -98,3 +98,53 @@ while turns < 9:
 
 display_board()
 print("It's a draw!")
+
+
+# 11) When the program starts executing and no input has been entered yet, which of the following is true?
+# ( ) The board is displayed with all cells filled with "X"
+
+# (x) The board is displayed with all cells empty
+
+# ( ) The game immediately asks Player O for input
+
+# ( ) The game prints "It’s a draw!"
+
+
+# 12) A player enters the following input when prompted: 2. What happens next?
+# ( ) The move is accepted and placed in column 2
+
+# ( ) The program crashes with an error
+
+# (x) The program asks the player to re-enter input
+
+# ( ) The turn switches to the next player
+
+
+# 13) Which situation causes the variable turns to increase by 1?
+# ( ) When the board is displayed
+
+# ( ) When a player enters invalid input
+
+# ( ) When a player overwrites an occupied cell
+
+# (x) When a valid move is successfully placed on the board
+
+
+# 14) The game stops immediately when which of the following occurs?
+# ( ) Nine turns have been completed
+
+# (x) A winning condition is detected
+
+# ( ) An invalid move is entered
+
+# ( ) The board is fully displayed
+
+
+# 15) Under which condition does the program print "It's a draw!"?
+# ( ) When Player O makes the last move
+
+# ( ) When no diagonal matches are found
+
+# (x) When the loop ends without detecting a winner
+
+# ( ) When all rows contain mixed symbols

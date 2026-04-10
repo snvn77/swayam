@@ -1,0 +1,7 @@
+lecture_1: https://www.youtube.com/watch?v=V7fvTmhqokM
+lecture_2: https://www.youtube.com/watch?v=JusPS-aLd04
+lecture_3: https://www.youtube.com/watch?v=zjqzrcljMlI
+lecture_4: https://www.youtube.com/watch?v=uRmg6Jl0mYk
+lecture_5: https://www.youtube.com/watch?v=lR8DWx2fcbQ
+lecture_6: https://www.youtube.com/watch?v=2aidDiaEst0
+lecture_7: https://www.youtube.com/watch?v=Uu4PnnWlqsA

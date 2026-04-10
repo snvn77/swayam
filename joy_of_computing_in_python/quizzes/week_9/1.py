@@ -126,11 +126,6 @@ for author,sentiment in sentiments.items():
     
 
 
-
-
-
-
-
 # Assume the text for Hamilton contains only the words:
 # "Liberty liberty the Constitution"
 # After preprocessing, what will be stored in author_tokens["Hamilton"]?
@@ -142,9 +137,9 @@ for author,sentiment in sentiments.items():
 
 # If an author's text contains only stopwords, what happens when plotting their word-length distribution?
 #  The program raises a runtime error
-#  An empty plot is generated without bars
+#  An empty plot is generated without bars      (Right Answer)
 #  All word lengths are plotted as zero
-#  The author is skipped automatically        (Right Answer)
+#  The author is skipped automatically
 
 
 # Which author property is directly visualized in the plotted graphs?
@@ -156,9 +151,9 @@ for author,sentiment in sentiments.items():
 
 # If the Disputed corpus contains significantly longer average words than others, how would this most likely appear in the plot?
 #  Higher bars at smaller word lengths
-#  A wider spread with peaks at larger word lengths
+#  A wider spread with peaks at larger word lengths       (Right Answer)
 #  A flat distribution across all lengths
-#  No visible difference from other authors        (Right Answer)
+#  No visible difference from other authors
 
 
 # Suppose TextBlob returns a sentiment polarity of 0.0 for Jay. What does this imply?
@@ -170,8 +165,8 @@ for author,sentiment in sentiments.items():
 
 # If the stopword filter were removed from preprocessing, which change would MOST likely occur?
 #  Sentiment scores become negative
-#  Word-length distributions shift toward shorter lengths
-#  Vocabulary size decreases        (Right Answer)
+#  Word-length distributions shift toward shorter lengths       (Right Answer)
+#  Vocabulary size decreases
 #  Alphabetic filtering stops working
 
 
